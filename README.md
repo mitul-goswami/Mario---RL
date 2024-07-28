@@ -83,8 +83,8 @@ This should start a terminal session which will show all values for during train
 
 | CONTRIBUTORS | MENTORS | CONTENT WRITER |
 | :------:| :-----:| :-----: |
-| Ahona Bar| Swapnil Dutta | Preasha Ghoshal |
-| Aman Kumar Anubhav | | |
+| Ahona Bar| Swapnil Dutta (Project Lead)| Preasha Ghoshal |
+| Aman Kumar Anubhav | Mitul Goswami (Project Co - Lead)| |
 | Prasoon Modi | | |
 | Romit Chatterjee| | |
 | Sainath Dey | | |
